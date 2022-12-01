@@ -1,0 +1,19 @@
+{
+"Aanbevelingen": [
+{
+"Naam": "Extra Tandverzekering 1",
+"Actie": "Toevoegen",
+"Kosten": "+8 euro p/m",
+},
+{
+"Naam": "Extra Fysio 1",
+"Actie": "Verwijderen",
+"Kosten": "-10 euro p/m",
+},
+{
+"Naam": "Ziekenhuisopname buitenland",
+"Actie": "Toevoegen",
+"Kosten": "+8 euro p/m",
+}
+]
+}
